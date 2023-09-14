@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raushan-raj-4a23a221a/" target= "main">
+  <a href="https://www.linkedin.com/in/raushan-raj-4a23a221a/" target= "blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  /></a>
-  <a href= "https://twitter.com/RaushanRaj9427" target="main"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /></a>
+  <a href= "https://twitter.com/RaushanRaj9427" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
