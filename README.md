@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm [Raushan Raj]
+![](profile.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raushan-raj-4a23a221a/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat&logo=twitter)](https://twitter.com/RaushanRaj9427)
